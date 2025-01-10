@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label {
+    font-size: 20px;
+
+}
+
+
+
+form {
+    width: 500px;
+    text-align: center;
+
+}
+
+legend {
+    padding: 10px;
+    font-weight: 900;
+    color: #a0a;
+    font-size: 30px;
+}
+
+fieldset {
+    background-color: #f5d1f3;
+    border: 3px solid #a0a;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.boton {
+    margin-top: 10px;
+    width: 90px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #f5d1f3;
+    border: 3px solid #a0a;
+    font-size: 20px;
+    font-weight: 500;
+}
